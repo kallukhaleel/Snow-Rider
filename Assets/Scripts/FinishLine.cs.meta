@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ea1ba935449070439a75b8a7ee146c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particles: {instanceID: 0}
+  - surfaceEffector: {instanceID: 0}
+  - crashClip: {fileID: 8300000, guid: f9e6ba90c234a544d90afd051f3a7bbc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
